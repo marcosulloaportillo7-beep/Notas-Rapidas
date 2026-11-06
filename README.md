@@ -86,5 +86,10 @@ Notas
 
 Historial
 
-<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/e19e25ad-f37e-424a-87d0-d5673e1ce027" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/e19e25ad-f37e-424a-87d0-d5673e1ce027" />
+
+
+Al presionar "Nueva Nota" nos lleva a este apartado
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/84978773-2268-43c4-b80f-1f415e2682ed" />
 
