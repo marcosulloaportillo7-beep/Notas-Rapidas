@@ -93,3 +93,19 @@ Al presionar "Nueva Nota" nos lleva a este apartado
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/84978773-2268-43c4-b80f-1f415e2682ed" />
 
+
+Al seleccionar una nota se puede editar o eliminar
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/b126a00f-f271-4bcb-8ccd-76df9f85aad4" />
+
+
+Si se le da "eliminar" saltara un aviso de que si estamos seguros de eliminar la nota
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/66cc5549-86fb-460c-8fc0-88f09ea991ca" />
+
+
+Y el historial registra todas las acciones que hemos hecho
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/69764f7d-55ea-4ba2-9390-eaee2b05d81e" />
+
+
