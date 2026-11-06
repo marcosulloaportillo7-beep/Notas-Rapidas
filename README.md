@@ -66,6 +66,7 @@ Se utiliza SQLite para almacenar de forma local:
 - sqlite-net-pcl
 - SQLitePCLRaw.bundle_green
 
+
 ## Ejecución
 
 1. Clonar el repositorio.
@@ -73,3 +74,17 @@ Se utiliza SQLite para almacenar de forma local:
 3. Restaurar paquetes NuGet.
 4. Seleccionar un dispositivo Android o emulador.
 5. Ejecutar la aplicación.
+
+
+
+## Capturas
+
+Notas
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c4bc7f39-c8ca-4959-8a03-d78a90540ab1" />
+
+
+Historial
+
+<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/e19e25ad-f37e-424a-87d0-d5673e1ce027" />
+
